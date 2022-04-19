@@ -1,4 +1,4 @@
-import { useState, useEffect, ChangeEvent } from 'react'
+import { useState, useEffect } from 'react'
 
 import 'games/memory-game/assets/css/style.css'
 import back from 'games/memory-game/assets/images/backs/kid-icon.svg'
