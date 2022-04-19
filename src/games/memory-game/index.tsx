@@ -102,8 +102,9 @@ const MemoryGame: React.FunctionComponent = (): JSX.Element => {
             <div
               key={index}
               onClick={() => handleFlipCard(index)}
-              className={`card ${visibleItems.includes(index) ? 'flip' : ''} ${finishedItems.includes(index) ? 'flip finished' : ''
-                }`}
+              className={`card ${visibleItems.includes(index) ? 'flip' : ''} ${
+                finishedItems.includes(index) ? 'flip finished' : ''
+              }`}
             >
               <img className="front" src={card.image} alt={card.type} />
               <img className="back" src={back} alt="Memory Card" />
