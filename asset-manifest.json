@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/games/static/css/main.35a37e4b.css",
+    "main.js": "/games/static/js/main.7e99832d.js",
+    "static/js/787.dd69cdba.chunk.js": "/games/static/js/787.dd69cdba.chunk.js",
+    "static/media/w.svg": "/games/static/media/w.7a5de3a0eba279936f4b7961d490973d.svg",
+    "static/media/q.svg": "/games/static/media/q.a7391d3f66a1b178ab9416aac8cd1ffb.svg",
+    "static/media/s.svg": "/games/static/media/s.da829e3a2db099f10d2f82560ae59589.svg",
+    "static/media/g.svg": "/games/static/media/g.4b0e04c34a7eea24ed100b01e1bd76aa.svg",
+    "static/media/r.svg": "/games/static/media/r.828ebbc1e6122a6e0d2ce84f133095b1.svg",
+    "static/media/m.svg": "/games/static/media/m.7a75cc355e10f386f512a6bc7c39e796.svg",
+    "static/media/kid-icon.svg": "/games/static/media/kid-icon.c3ac10522263136ac279b2b3f421e936.svg",
+    "static/media/c.svg": "/games/static/media/c.0a6204d813cff520e402782fd0cb7d17.svg",
+    "static/media/x.svg": "/games/static/media/x.099bbd6322258366c7efbd0e0022d75f.svg",
+    "static/media/o.svg": "/games/static/media/o.6c584170c59a08f7b797d125e9d6aa49.svg",
+    "static/media/a.svg": "/games/static/media/a.bd753c8ad357244ba70497633849f619.svg",
+    "static/media/b.svg": "/games/static/media/b.ed5193f6d7345a1239a6327281c408ec.svg",
+    "static/media/k.svg": "/games/static/media/k.72a7e7e2c1f41433d29c25d08b1d2e9d.svg",
+    "static/media/d.svg": "/games/static/media/d.e9c90a51b8b459b1e8502eaf927b7b21.svg",
+    "static/media/v.svg": "/games/static/media/v.61239f6d1335d56aeb47c190a170610d.svg",
+    "static/media/n.svg": "/games/static/media/n.aaa1672e86188bdceec4d99ec4c3ae31.svg",
+    "static/media/u.svg": "/games/static/media/u.0d5cd3d3cf3242b3da2e35f370a6c177.svg",
+    "static/media/j.svg": "/games/static/media/j.5de19c9e603b90289db248b73ef50a7d.svg",
+    "static/media/h.svg": "/games/static/media/h.82a94bef9d52ae4c296bd18853da6894.svg",
+    "static/media/p.svg": "/games/static/media/p.9c7a70295317a3e5074692d230f83624.svg",
+    "static/media/e.svg": "/games/static/media/e.2a5f3b7fe98d70869375d6c4b2949600.svg",
+    "static/media/z.svg": "/games/static/media/z.f7322c92409c24a9525bb928d33d0004.svg",
+    "static/media/y.svg": "/games/static/media/y.1cd7012fb0c8f71b294a43cbf44dec87.svg",
+    "static/media/f.svg": "/games/static/media/f.9abf73b7c1965bf1281dd57f939e8fdd.svg",
+    "static/media/t.svg": "/games/static/media/t.68399e30d3f6210f6796094fb7ddb791.svg",
+    "static/media/l.svg": "/games/static/media/l.9528f26579e38f7f71a12ae38ce14340.svg",
+    "static/media/i.svg": "/games/static/media/i.b471e3187a94a94e819efe025285dffd.svg",
+    "index.html": "/games/index.html",
+    "main.35a37e4b.css.map": "/games/static/css/main.35a37e4b.css.map",
+    "main.7e99832d.js.map": "/games/static/js/main.7e99832d.js.map",
+    "787.dd69cdba.chunk.js.map": "/games/static/js/787.dd69cdba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35a37e4b.css",
+    "static/js/main.7e99832d.js"
+  ]
+}
