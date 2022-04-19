@@ -1,7 +1,4 @@
-import useInterval from "games/hooks/useInterval"
-import useIsomorphicLayoutEffect from "games/hooks/useIsomorphicLayoutEffect"
+import useInterval from 'games/hooks/useInterval'
+import useIsomorphicLayoutEffect from 'games/hooks/useIsomorphicLayoutEffect'
 
-export {
-	useInterval,
-	useIsomorphicLayoutEffect
-}
+export { useInterval, useIsomorphicLayoutEffect }

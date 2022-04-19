@@ -1,7 +1,7 @@
-import MemoryGame from 'games/memory-game'
+import SystemRoutes from 'system/Routes'
 
-function App() {
-  return <MemoryGame />
+const App: React.FunctionComponent = (): JSX.Element => {
+  return <SystemRoutes />
 }
 
-export default App;
+export default App

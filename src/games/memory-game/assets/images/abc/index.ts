@@ -26,108 +26,108 @@ import y from './y.svg'
 import z from './z.svg'
 
 export const abc = [
-	{
-		type: 'a',
-		image: a
-	},
-	{
-		type: 'b',
-		image: b
-	},
-	{
-		type: 'c',
-		image: c
-	},
-	{
-		type: 'd',
-		image: d
-	},
-	{
-		type: 'e',
-		image: e
-	},
-	{
-		type: 'f',
-		image: f
-	},
-	{
-		type: 'g',
-		image: g
-	},
-	{
-		type: 'h',
-		image: h
-	},
-	{
-		type: 'i',
-		image: i
-	},
-	{
-		type: 'j',
-		image: j
-	},
-	{
-		type: 'k',
-		image: k
-	},
-	{
-		type: 'l',
-		image: l
-	},
-	{
-		type: 'm',
-		image: m
-	},
-	{
-		type: 'n',
-		image: n
-	},
-	{
-		type: 'o',
-		image: o
-	},
-	{
-		type: 'p',
-		image: p
-	},
-	{
-		type: 'q',
-		image: q
-	},
-	{
-		type: 'r',
-		image: r
-	},
-	{
-		type: 's',
-		image: s
-	},
-	{
-		type: 't',
-		image: t
-	},
-	{
-		type: 'u',
-		image: u
-	},
-	{
-		type: 'v',
-		image: v
-	},
-	{
-		type: 'w',
-		image: w
-	},
-	{
-		type: 'x',
-		image: x
-	},
-	{
-		type: 'y',
-		image: y
-	},
-	{
-		type: 'z',
-		image: z
-	}
+  {
+    type: 'a',
+    image: a,
+  },
+  {
+    type: 'b',
+    image: b,
+  },
+  {
+    type: 'c',
+    image: c,
+  },
+  {
+    type: 'd',
+    image: d,
+  },
+  {
+    type: 'e',
+    image: e,
+  },
+  {
+    type: 'f',
+    image: f,
+  },
+  {
+    type: 'g',
+    image: g,
+  },
+  {
+    type: 'h',
+    image: h,
+  },
+  {
+    type: 'i',
+    image: i,
+  },
+  {
+    type: 'j',
+    image: j,
+  },
+  {
+    type: 'k',
+    image: k,
+  },
+  {
+    type: 'l',
+    image: l,
+  },
+  {
+    type: 'm',
+    image: m,
+  },
+  {
+    type: 'n',
+    image: n,
+  },
+  {
+    type: 'o',
+    image: o,
+  },
+  {
+    type: 'p',
+    image: p,
+  },
+  {
+    type: 'q',
+    image: q,
+  },
+  {
+    type: 'r',
+    image: r,
+  },
+  {
+    type: 's',
+    image: s,
+  },
+  {
+    type: 't',
+    image: t,
+  },
+  {
+    type: 'u',
+    image: u,
+  },
+  {
+    type: 'v',
+    image: v,
+  },
+  {
+    type: 'w',
+    image: w,
+  },
+  {
+    type: 'x',
+    image: x,
+  },
+  {
+    type: 'y',
+    image: y,
+  },
+  {
+    type: 'z',
+    image: z,
+  },
 ]
